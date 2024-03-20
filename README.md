@@ -1,5 +1,3 @@
-# README
-
 - 👋 Hi, I’m @olegmihalap
 - 👀 I’m interested in you
 - 🌱 I’m currently learning you
